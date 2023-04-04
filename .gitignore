@@ -3333,3 +3333,5 @@ MemmoryOfTrees/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.
 MemmoryOfTrees/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/Api/TestAdaptorFactory.cs
 MemmoryOfTrees/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/Api/TestAdaptorFactory.cs.meta
 MemmoryOfTrees/Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/Api/TestMode.cs
+*.cs
+*.meta

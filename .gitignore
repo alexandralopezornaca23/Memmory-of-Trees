@@ -18,3 +18,9 @@
 *.psd
 *.uss
 *.uss
+*.unity
+*.po
+*.unitypackage
+*.ModuleCompilationTrigger
+*.plist
+MemmoryOfTrees/Library/PackageCache/com.unity.ide.rider@3.0.16/.editorconfig
